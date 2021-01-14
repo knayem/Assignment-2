@@ -1,0 +1,30 @@
+h1{
+    
+    font-size: 110px;
+    margin-right: auto;
+}
+h2{
+   font-size: 60px;
+   margin-top: 5%;
+}
+
+.half-wide{
+
+    height: 5%;
+    width: 40%; 
+    float: left;
+    margin-left:5% ;
+    padding-left: 2%;
+}
+.half-wide img{
+
+width: 70%;
+}
+.icon{
+    width: 20px img;
+}
+.imge img{
+
+width:  40%;
+
+}
